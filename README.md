@@ -4,5 +4,5 @@ This project was created using React. It is a simple game where a player needs t
 ## npm install
 Installs dependencies which enable this app to run
 
-npm run dev
+## npm run dev
 Runs this project on the development server
